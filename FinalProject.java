@@ -21,7 +21,7 @@ class FinalProject
         while (num != 1)
         {
           // for evens
-          if (num % 2 == 0)
+          if (num % 2 == 1)
           {
              num /= 2;
           }
